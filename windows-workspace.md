@@ -1,8 +1,8 @@
 1. windows terminal
 1. dotnet cli
 1. git for windows
-    1. git config [git-config.md] 
-    1. powershell powerups [powershel-powerups.md]
+    1. git config [git config and aliases](git-config.md) 
+    1. powershell powerups [powershell setup](./powershel-powerups.md)
 1. docker
 1. vs code
     1. c# + c# dev kit
